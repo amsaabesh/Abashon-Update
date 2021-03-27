@@ -12,9 +12,9 @@ using System.Security.Cryptography;
 
 namespace Abashon
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
         }
@@ -27,6 +27,13 @@ namespace Abashon
         private void button1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            this.Hide();
+            Registration r1 = new Registration();
+            r1.ShowDialog();
         }
     }
 }

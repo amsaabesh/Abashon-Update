@@ -16,7 +16,7 @@ namespace Abashon
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new AdminReg());
+            Application.Run(new Registration());
         }
     }
 }

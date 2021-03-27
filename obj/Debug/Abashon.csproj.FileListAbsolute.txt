@@ -2,7 +2,6 @@ E:\Code\Abashon c#\Abashon\bin\Debug\Abashon.exe.config
 E:\Code\Abashon c#\Abashon\bin\Debug\Abashon.exe
 E:\Code\Abashon c#\Abashon\bin\Debug\Abashon.pdb
 E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.csprojAssemblyReference.cache
-E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.Form1.resources
 E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.Properties.Resources.resources
 E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.csproj.GenerateResource.cache
 E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.csproj.CoreCompileInputs.cache
@@ -23,5 +22,6 @@ E:\Code\Abashon c#\Abashon\bin\Debug\System.Numerics.Vectors.dll
 E:\Code\Abashon c#\Abashon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 E:\Code\Abashon c#\Abashon\bin\Debug\MySql.Data.xml
 E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.exe.config
-E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.AdminReg.resources
 E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.csproj.CopyComplete
+E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.Registration.resources
+E:\Code\Abashon c#\Abashon\obj\Debug\Abashon.Login.resources
